@@ -9,6 +9,8 @@ openai
 npm init -y  
 npm install dotenv discord.js openai.  
 
+First you need a OPENAI API key. Go to your account and get your API key and place it in your .env file.  
+
 The part of this project that is not code involves building the bot setup on discord.  
 
 Go to Discord.com/developers/applications and set your bot permissions.  
