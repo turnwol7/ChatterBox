@@ -1,13 +1,15 @@
-##ChatterBox
+# ChatterBox
 
-need these dependencies
-node
-dotenv
-discord.js
-openai
+Get these dependencies:  
+- node  
+- dotenv  
+- discord.js  
+- openai  
 
+``` <bash>
 npm init -y  
-npm install dotenv discord.js openai.  
+npm install dotenv discord.js openai.
+```
 
 First you need an OPENAI API key. Go to your OPENAI account and get your API key and place it in your .env file.  
 
