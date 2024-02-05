@@ -21,7 +21,7 @@ Then use their Auth2 tab to take your client ID and input it into the end of thi
 
 https://discord.com/oauth2/authorize?scope=bot&permissions=8&client_id=YOURCLIENTID_HERE  
 
-![add bot](1.png)
+![add bot](pics/1.png)
 
 Once you see a popup with you logged in. You can see your servers that you want to add the bot to.  
 
