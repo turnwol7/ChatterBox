@@ -10,6 +10,7 @@ Get these dependencies:
 npm init -y  
 npm install dotenv discord.js openai.
 ```
+## Let's go
 
 First you need an OPENAI API key. Go to your OPENAI account and get your API key and place it in your .env file.  
 
